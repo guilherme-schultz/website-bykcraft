@@ -48,9 +48,9 @@
 @media only screen and (min-width: 788px) and (max-width: 979px){
 	.container{
 		width: 768px;
-		/* margin: 0 auto;
+		margin: 0 auto;
 		padding: 0px;
-		position: relative; */
+		position: relative;
 	}
 
 	.grid-1 {width: 28px;}
