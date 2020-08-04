@@ -1,2 +1,2 @@
 # website-bykcraft
-Website for a bike enterprise
+Training how to make websites with HTML/CSS/JavaScript
